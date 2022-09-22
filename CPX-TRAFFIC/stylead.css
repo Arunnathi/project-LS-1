@@ -1,0 +1,12 @@
+.imglogo {
+    width: 90px;
+    margin-left: 80px;
+}
+
+.navbar-nav{
+    text-align: end;
+    justify-content: end;
+}
+body{
+    overflow-x: hidden;
+}
